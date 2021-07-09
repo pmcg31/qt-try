@@ -71,10 +71,4 @@ Thumbs.db
 *.dll
 *.exe
 
-build/.qmake.stash
-build/LRGB-float.fit
-build/LRGB.fit
-build/M_106_Light_L_60_secs_2021-06-13T22-29-26_113_s.fits
-build/M_106_Light_L_60_secs_2021-06-13T22-29-26_113.fits
-build/moc_predefs.h
-build/qt-try
+build/
